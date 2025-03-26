@@ -3,4 +3,9 @@ function AccioJob(){
 	alert(AccioJob.name);
 }
 
+function functionName() {
+	alert(functionName.name);
+}
+
+functionName();
 AccioJob();
